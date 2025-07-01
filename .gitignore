@@ -1,5 +1,6 @@
 /.DS_Store
 /data
 /database
-/docs
 /scripts
+.env
+*.bkp
